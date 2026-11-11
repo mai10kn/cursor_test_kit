@@ -1,0 +1,7 @@
+{
+  "version": "v2",
+  "workflow_file": "WORKFLOW.md",
+  "entrypoint": "/qa-review",
+  "sample_input": "qa-core",
+  "status": "unrun starter for comparative evaluation"
+}

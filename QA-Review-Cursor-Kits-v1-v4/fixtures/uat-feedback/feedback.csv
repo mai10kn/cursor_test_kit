@@ -1,0 +1,7 @@
+Feedback ID,Raw feedback,Evidence/context
+FB-01,Thanh toán hoàn tất nhưng không thấy mã booking,Success page screenshot shows no booking number
+FB-02,Tôi muốn hệ thống có dark mode,Yêu cầu mới không có trong AC
+FB-03,Tôi không biết icon ? dùng để làm gì và phải hỏi nhân viên,Observed repeated confusion with icon
+FB-04,Email xác nhận không được gửi,Mail log and user inbox checked
+FB-05,Tôi thích nút màu xanh hơn,Single participant preference; no measured blockage
+FB-06,Ngày hiển thị trước thanh toán không rõ là ngày nhận hay ngày gửi,Unclear wording; intent not settled in AC

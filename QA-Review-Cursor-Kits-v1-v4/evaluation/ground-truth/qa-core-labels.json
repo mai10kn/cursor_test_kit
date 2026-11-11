@@ -1,0 +1,14 @@
+{
+  "dataset": "synthetic-mini-qa-v1",
+  "issues": [
+    {"tc_id":"TC-002","code":"INCORRECT_EXPECTED"},
+    {"tc_id":"TC-003","code":"BOUNDARY_MISSING"},
+    {"tc_id":"TC-004","code":"PERMISSION_MISSING"},
+    {"tc_id":"TC-005","code":"EMAIL_CHECK_MISSING"},
+    {"tc_id":"TC-006","code":"BOUNDARY_MISSING"},
+    {"tc_id":"TC-007","code":"DUPLICATE"},
+    {"tc_id":"TC-010","code":"UNSUPPORTED_EXPECTED"}
+  ],
+  "non_findings": ["TC-001", "TC-008", "TC-009"],
+  "note": "Labels represent known synthetic QA issues; model predictions must cite actual source before adoption."
+}

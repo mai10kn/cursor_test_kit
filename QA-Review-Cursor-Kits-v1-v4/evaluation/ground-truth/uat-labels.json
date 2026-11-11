@@ -1,0 +1,1 @@
+{"dataset":"synthetic-uat-2026","labels":{"FB-01":"BUG","FB-02":"CHANGE_REQUEST","FB-03":"USABILITY","FB-04":"BUG","FB-05":"SUBJECTIVE_FEEDBACK","FB-06":"SPEC_GAP"},"note":"FB-06 requires verification; suggested label is a review target, not an indisputable truth."}

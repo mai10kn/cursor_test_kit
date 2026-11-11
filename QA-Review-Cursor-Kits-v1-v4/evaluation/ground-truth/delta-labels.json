@@ -1,0 +1,1 @@
+{"dataset":"synthetic-delta-2026","affected":["DTC-001","DTC-005"],"unaffected":["DTC-002","DTC-003","DTC-004"],"note":"DTC-001 expected becomes wrong at 36h; DTC-005 needs coupon invariant checkpoint."}

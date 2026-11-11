@@ -1,0 +1,6 @@
+TC ID,AC ID,Precondition,Steps,Expected Result
+DTC-001,AC-D01,confirmed; 36h before check-in,Change booking date,Allowed
+DTC-002,AC-D02,checked_in,Attempt date change,Rejected
+DTC-003,AC-D03,confirmed; 72h before check-in,Change date and check mailbox,Email received
+DTC-004,AC-D01,confirmed; 72h before check-in,Change date,Allowed
+DTC-005,AC-D04,confirmed with coupon,Change date,Booking updated (no coupon assertion)

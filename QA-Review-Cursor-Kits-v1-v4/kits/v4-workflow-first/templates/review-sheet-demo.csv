@@ -1,0 +1,11 @@
+﻿TC ID,AC ID,Precondition,Steps,Test Data,Expected Result,AI Issue,Suggested Fix,Review Decision
+TC-001,AC-06,Active user,Log in with correct credentials,user1 / correct password,Login succeeds,,,Pending
+TC-002,AC-02,Active unlocked user,Enter incorrect password 3 times,wrong password,Account is locked after third attempt,,,Pending
+TC-003,AC-01,Registration form,Submit password at minimum length,Abcdef12 (8 characters),Accepted,,,Pending
+TC-004,AC-04,Owner A logged in,Open own store booking,booking belonging to store A,Booking details shown,,,Pending
+TC-005,AC-03,Active booking,Cancel booking,booking B-001,Booking status is cancelled,,,Pending
+TC-006,AC-05,Booking scheduled in 3 days,Change booking date 48h before check-in,valid new date,Change succeeds,,,Pending
+TC-007,AC-06,Active user,Log in with correct credentials,user1 / correct password,Login succeeds,,,Pending
+TC-008,AC-06,Active user,Enter wrong password once,wrong password,Login denied and user can retry,,,Pending
+TC-009,AC-06,Active user,Log in with correct credentials,user2 / correct password,Login succeeds,,,Pending
+TC-010,AC-06,Active user,Disable network in the middle of login,network off,App retries automatically,,,Pending
